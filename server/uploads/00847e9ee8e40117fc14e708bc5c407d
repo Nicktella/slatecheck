@@ -1,0 +1,11 @@
+filename,row_number,error_message,created_at
+report.csv,79,Type mismatch,2025-06-11T22:27:14.029244
+report.csv,89,Type mismatch,2025-06-13T22:27:14.029277
+audit.csv,30,Missing name,2025-05-22T22:27:14.029290
+report.csv,99,Empty row,2025-06-03T22:27:14.029296
+audit.csv,48,Empty row,2025-05-22T22:27:14.029306
+errors.csv,43,Unexpected column,2025-06-04T22:27:14.029312
+errors.csv,53,Unexpected column,2025-06-04T22:27:14.029317
+upload.csv,18,Missing name,2025-06-06T22:27:14.029325
+report.csv,46,Unexpected column,2025-05-30T22:27:14.029331
+data.csv,26,Invalid email,2025-05-22T22:27:14.029336
