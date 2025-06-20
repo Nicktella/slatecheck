@@ -355,7 +355,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Nicktella)
 
 ## 🙏 Acknowledgments
 
@@ -368,9 +368,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 **Email**: your.email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/slatecheck/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/slatecheck/discussions)
+- 📧 **Email**: nicktellah5600@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Nicktella/slatecheck/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Nicktella/slatecheck/discussions)
 
 ---
 
